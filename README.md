@@ -1,2 +1,2 @@
 # demo-repo
-intro to github
+intro to github demo
